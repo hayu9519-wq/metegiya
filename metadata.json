@@ -1,0 +1,5 @@
+{
+  "name": "Metegiya (መጠጊያ)",
+  "description": "A safety and support tool for Ethiopian migrant workers, providing emergency contacts, location sharing, and safety reminders in multiple languages.",
+  "requestFramePermissions": ["geolocation"]
+}
